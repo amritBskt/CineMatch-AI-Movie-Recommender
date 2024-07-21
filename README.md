@@ -51,9 +51,6 @@ This project implements a content-based filtering recommender system using a neu
 
 The dataset used in this project is derived from the [MovieLens ml-latest-small](https://grouplens.org/datasets/movielens/latest/) dataset.
 
-- **Movies Data**: Contains movie metadata like movie ID, title, and genres.
-- **Ratings Data**: Contains user ratings for movies.
-
 ## Model
 
 A neural network is implemented using TensorFlow to perform content-based filtering. The model is trained to predict user ratings based on movie features.
